@@ -1,0 +1,3266 @@
+[
+  {
+    "name": "Kawerak Inc.",
+    "city": "NOME",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Super-sized",
+      "education",
+      "environment"
+    ]
+  },
+  {
+    "name": "Cook Inlet Tribal Council Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Super-sized",
+      "education",
+      "human services"
+    ]
+  },
+  {
+    "name": "University of Alaska Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "university education"
+    ]
+  },
+  {
+    "name": "Ilisagvik College",
+    "city": "BARROW",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "Alaska Geographic Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "environment"
+    ]
+  },
+  {
+    "name": "Stone Soup Group",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "family services"
+    ]
+  },
+  {
+    "name": "Alaska School Activities Association Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "Alaska Pacific University Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "JUNIOR ACHIEVEMENT USA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "economics for youth"
+    ]
+  },
+  {
+    "name": "American Bald Eagle Foundation Haines Chapter Inc.",
+    "city": "HAINES",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "wildlife biodiversity"
+    ]
+  },
+  {
+    "name": "Alaska Engineering Education Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Matanuska Valley Sportsmen Inc.",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Travel Industry Association Foundation Incorporated",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Victory Ministries of Alaska Inc.",
+    "city": "SUTTON",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "sports and recreation"
+    ]
+  },
+  {
+    "name": "Calista Education and Culture Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "higher education"
+    ]
+  },
+  {
+    "name": "Alaska Wildlife Conservation Center Inc.",
+    "city": "GIRDWOOD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "wildlife biodiversity"
+    ]
+  },
+  {
+    "name": "Friends of Chugach National Forest Avalanche Information Center",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Partners for Progress in Delta Inc.",
+    "city": "DELTA JCT",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "economic development"
+    ]
+  },
+  {
+    "name": "Institute of the North",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "environment"
+    ]
+  },
+  {
+    "name": "Anchorage Waldorf Education Association Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "elementary and secondary education"
+    ]
+  },
+  {
+    "name": "Alaska State Elks Charitable Trust",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Arctic Research Consortium of the United States Incorporated",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "Bear Valley Community Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "child welfare"
+    ]
+  },
+  {
+    "name": "Kea Educational Foundation Inc.",
+    "city": "KODIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Taylar Young Memorial Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Rilke Schule Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Association of Interior Native Educators",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Society for Technology in",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "The Friends of the Juneau Public Libraries",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "unknown or not classified"
+    ]
+  },
+  {
+    "name": "Anchorage Post Society of American Military Engineers Benjamin B",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage Post Society of American Military Engineers Benjamin B",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "YWCA Alaska",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "Spirit of Youth",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "constituency journalism"
+    ]
+  },
+  {
+    "name": "Tidelines Institute",
+    "city": "GUSTAVUS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "equal opportunity in education"
+    ]
+  },
+  {
+    "name": "Alaska Trails",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "environment"
+    ]
+  },
+  {
+    "name": "Facing Foster Care in Alaska",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "Anchorage Classical Ballet Academy",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "ballet"
+    ]
+  },
+  {
+    "name": "Matsu Amateur Hockey Association",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "winter sports"
+    ]
+  },
+  {
+    "name": "Musk Ox Development Corporation",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "arts and culture"
+    ]
+  },
+  {
+    "name": "OUR LADY OF THE ROSARY ALAKSA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "elementary and secondary education"
+    ]
+  },
+  {
+    "name": "Christopher Waldens Foundation of Hope",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Dance Theatre Fairbanks",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Nick Begich Scholarship Intern Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Kodiak Scholarship Foundation Inc.",
+    "city": "KODIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Eastern Aleutian Tribes Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Large-sized",
+      "education",
+      "health care access"
+    ]
+  },
+  {
+    "name": "Alaska World Affairs Council",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "international relations"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "WOMEN IN AVIATION INTERNATIONAL",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Scientific Education Outreach and Research Group for Global Change",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WILLOW",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Heart of Gold Ministries International",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "parent education"
+    ]
+  },
+  {
+    "name": "FUTURE PROBLEM SOLVING PROGRAM INTERNATIONAL INC",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "HOMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "TOK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "INTERNATIONAL LITERACY ASSOCIATION",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "WILLOW",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage International Rotary Club Memorial Scholarship Fund Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "employment"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NATIONAL ASSOCIATION FOR FAMILY AND COMMUNITY EDUCATION",
+    "city": "WILLOW",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage International Rotary Club Memorial Scholarship Fund Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PARENT BOOSTER USA INC",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "International Association of Gay & Lesbian Martial Art Inc. A Pa Corp",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "RABBIT CREEK COMMUNITY ASSOCIATION",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "child welfare"
+    ]
+  },
+  {
+    "name": "Alaska Student Partnership",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Revive Alaska Community Services",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education",
+      "human rights"
+    ]
+  },
+  {
+    "name": "Alaska Student Partnership",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Medium-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage Library Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "public affairs"
+    ]
+  },
+  {
+    "name": "ASSOCIATION FOR CAREER AND TECHNICAL EDUCATION INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Nuna Resources Incorporated",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Susan B Lindahl Memorial Scholarship",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Qizhjeh Heritage Institute",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Wellness Works Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "Alaska Farmers Market Association",
+    "city": "SEWARD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "Afn Education Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Library Association",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "philanthropy"
+    ]
+  },
+  {
+    "name": "Alaska Federation of Filipino Americans Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Qizhjeh Heritage Institute",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Wellness Works Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "Nuna Resources Incorporated",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Library Association",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "philanthropy"
+    ]
+  },
+  {
+    "name": "Seward Seahawks Athletic Booster Club Inc.",
+    "city": "SEWARD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "University of the Arctic Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "physical and earth sciences"
+    ]
+  },
+  {
+    "name": "2359 Vision",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Arts Education Consortium Inc.",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "arts education"
+    ]
+  },
+  {
+    "name": "Enlaces",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "arts and culture"
+    ]
+  },
+  {
+    "name": "Juneau-Douglas High School Fast Break Club Inc.",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "secondary education"
+    ]
+  },
+  {
+    "name": "Ashnha Program Services Company Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "nursing care"
+    ]
+  },
+  {
+    "name": "North Pole Christian School",
+    "city": "NORTH POLE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "human services"
+    ]
+  },
+  {
+    "name": "The Friends of the Haines Borough Public Library",
+    "city": "HAINES",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "public libraries"
+    ]
+  },
+  {
+    "name": "Ikluat Inc.",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Prehospital Education Consortium Inc.",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "health care quality"
+    ]
+  },
+  {
+    "name": "Alaska Yanna Vararam",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "religion"
+    ]
+  },
+  {
+    "name": "2359 Vision",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Seward Seahawks Athletic Booster Club Inc.",
+    "city": "SEWARD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "University of the Arctic Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education",
+      "physical and earth sciences"
+    ]
+  },
+  {
+    "name": "Juneau Soccer Club",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "Small-sized",
+      "education"
+    ]
+  },
+  {
+    "name": "Copper River Wrestling Booster Club",
+    "city": "GAKONA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Thorne Bay Library",
+    "city": "THORNE BAY",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage Mount McKinley Lions Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Arctic Resource Center for Suicide Prevention",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "PDR ALASKA INC",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of Anccs Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Northern and Interior Alaska Association for the Education of Y",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eagle River High School Volleyball Boosters",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Cma Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Challenge Program Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Cordova Public Library",
+    "city": "CORDOVA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Japanese Karate Do Coorerative Inc.",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Nanook Innovation Corporation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Meggin Dunham Clancy Scholarship Fund",
+    "city": "SEWARD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Science Teachers Association",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Firefall Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Knights Jrotc Boosters",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Olgoonik Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Section",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Angeltrax Foundation Inc.",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage Assn of Women Lawyers",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Fairbanks Open Radio",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "community organizing"
+    ]
+  },
+  {
+    "name": "Anchor Town Sports Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "United Missions of Hope Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Beta Educational Scholarship Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "DISTRIBUTIVE EDUCATION CLUBS OF AMERICA",
+    "city": "NORTH POLE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "AMAZING GRACE ACADEMY FKA MATT VALLEY SDA SCHOOL",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "elementary and secondary education"
+    ]
+  },
+  {
+    "name": "The Matanuska Susitna Schools Foundation",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "elementary and secondary education"
+    ]
+  },
+  {
+    "name": "Village of Razdolna Inc.",
+    "city": "HOMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "Miss Alaska Scholarship Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "WRANGELL TEACHER ASSOCIATION",
+    "city": "WRANGELL",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NOME EDUCATION ASSOCIATION",
+    "city": "NOME",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Transkei Education Connection",
+    "city": "GLENNALLEN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Agriculture in the Classroom Inc.",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Delta High School Booster Club",
+    "city": "DELTA JCT",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "DILLINGHAM SDA SCHOOL",
+    "city": "DILLINGHAM",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Colony Middle School Booster Club Inc.",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Birchtree Parents Guild",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Irish Club of Alaska",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "arts and culture"
+    ]
+  },
+  {
+    "name": "Ketchikan Charr Educational Fund Inc.",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "AMERICAN FEDERATION OF TEACHERS",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "UNIVERSITY WOMENS ASSOCIATION OF THE UNIVERSITY OF ALASKA",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Brabson Library and Educational Foundation Inc.",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "Juneau High School Band Boosters",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "MARTIN LUTHER KING JR FOUNDATION OF FAIRBANKS",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska School Nurses Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "nursing education"
+    ]
+  },
+  {
+    "name": "Integrity It Internship Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "computer science"
+    ]
+  },
+  {
+    "name": "Friends of Spruce Tree Montessori School",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Challenge Program Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Fairbanks Open Radio",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "community organizing"
+    ]
+  },
+  {
+    "name": "Anchorage Assn of Women Lawyers",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Arctic Resource Center for Suicide Prevention",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Meggin Dunham Clancy Scholarship Fund",
+    "city": "SEWARD",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Science Teachers Association",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Angeltrax Foundation Inc.",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Firefall Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Cordova Public Library",
+    "city": "CORDOVA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Japanese Karate Do Coorerative Inc.",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "South Anchorage High School Hockey Booster Club",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "AMERICAN FEDERATION OF TEACHERS",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Ketchikan Charr Educational Fund Inc.",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaskans for Language Acquisition Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "MARTIN LUTHER KING JR FOUNDATION OF FAIRBANKS",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska School Nurses Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "nursing education"
+    ]
+  },
+  {
+    "name": "Brabson Library and Educational Foundation Inc.",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "Juneau High School Band Boosters",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Iawp Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "international peace and security"
+    ]
+  },
+  {
+    "name": "Kchs Hockey Booster Club Inc.",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Chugiak Wrestling Booster Club",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Region V of Alaska School Activities Association",
+    "city": "KLAWOCK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Haida Canoe Revitalization Group",
+    "city": "KASAAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "ALASKA PROGRESSIVE DONOR TABLE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "KENAI RIVER ESTATES INC",
+    "city": "SOLDOTNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Out of the North Ministries",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Rich Samaritan",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "ALASKANS FOR BETTER ELECTIONS",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "MUSTANGS VOLLEYBALL BOOSTER CLUB",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Golden Heart Cheerleading",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Coalition of Bipoc Educators",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Talkeetna Library",
+    "city": "TALKEETNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kids Chance of Alaska Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eaglexit Corporation",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eagle River High School Softball Booster Club",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Dancewest Booster Club",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "More Latinoamerica",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Rural Health Scholar Pipeline",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Ketchikan Pride Alliance",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Dream Big Academy Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Ak Youthforce",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Historic Wolf Creek Boatworks",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "South Peninsula Amateur Radio Club",
+    "city": "HOMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Find Your Fire",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Postsecondary Access and Completion Network",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "higher education"
+    ]
+  },
+  {
+    "name": "R & D Biotech Alaska",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "science"
+    ]
+  },
+  {
+    "name": "Susitna Bicycle Institute Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Randy Rogers Wood Bison Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Association for Personal Care Supports Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Coastview Science Incorporated",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "French Language Advocates Anchorage",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kenwa Karate of Sitka",
+    "city": "SITKA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Viper Transitions Inc.",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "museums"
+    ]
+  },
+  {
+    "name": "High School to Flight School",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "POSITIVE LIFE ALASKA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Brees Law Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Klouda Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Wolfpack Wrestling Incorporated",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Houston High School Football Booster Club",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mustang Band Booster Club Inc.",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Pelican Library",
+    "city": "PELICAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Camp 14 Anb & Ans Scholarship Program",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eagle River Hockey League",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "R & B Service Learning Trips",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "South Anchorage High School Hockey Booster Club",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaskans for Language Acquisition Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mat-Su Martin Luther King Jr Foundation Inc.",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Iawp Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "international peace and security"
+    ]
+  },
+  {
+    "name": "JACK & JILL OF AMERICA INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Chugiak Football Booster Club",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Old Harbor Scholarship Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mustang Soccer Booster Club",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Press Club",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Music Teachers Association Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Koniag Educational Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "foundations"
+    ]
+  },
+  {
+    "name": "Uic Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "foundations"
+    ]
+  },
+  {
+    "name": "Anchorage Opera Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska PTA Ursa Minor Elementary",
+    "city": "JBER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kenai Central Football Club",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NORTHWEST SECTION OF THE NINETY-NINES",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Head Start Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Fairbanks Retriever Club",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mountain City Church Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "christianity"
+    ]
+  },
+  {
+    "name": "Rose Kapingen Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kodiak Hospital Auxiliary Inc.",
+    "city": "KODIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Valley Church of Christ",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Creekside Park PTA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "parent-teacher involvement"
+    ]
+  },
+  {
+    "name": "Service High School Hockey Booster Club Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Riverbend Learning Community Parent Teacher Organization",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Creekside Park PTA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "parent-teacher involvement"
+    ]
+  },
+  {
+    "name": "Service High School Hockey Booster Club Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Riverbend Learning Community Parent Teacher Organization",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Petersburg Marine Mammal Center",
+    "city": "PETERSBURG",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Willow Library Association",
+    "city": "WILLOW",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eaa Kenai Penninsula Chapter 975 Inc.",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kenai Peninsula Opportunities Incorporated",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Choggiung Educational Endowment Foundation",
+    "city": "DILLINGHAM",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Academy Advisory Board Inc.",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage Association for the Education of Young Children",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "EDUCATION SUPPORT STAFF ASSN",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Tanalian Outstanding Performance Scholarships",
+    "city": "PORT ALSWORTH",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Edna P McCurdy Scholarship Foundation",
+    "city": "UNALASKA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Historical Publication Association",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eielson Spouses Club",
+    "city": "EIELSON AFB",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of Petersburg Libraries",
+    "city": "PETERSBURG",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Copper Mountain Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Hrc Inc.",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "adult literacy"
+    ]
+  },
+  {
+    "name": "Arctic Education Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "foundations"
+    ]
+  },
+  {
+    "name": "Chugiak Football Booster Club",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Youth Scholarship Tournament",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "HOONAH EDUCATION ASSOCIATION",
+    "city": "HOONAH",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Central Chapter Icc",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "SITKA EDUCATION ASSOCIATION",
+    "city": "SITKA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Tigara Educational Foundation Inc.",
+    "city": "POINT HOPE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "KENAI PENINSULA CHARR",
+    "city": "SOLDOTNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "business promotion"
+    ]
+  },
+  {
+    "name": "Tavita Asi Scholarship Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mtnt Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ANCHORAGE WOMENS GOLF ASSOCIATION INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Moose Boosters Wrestling Club",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage South Rotary Memorial Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA END-OF-LIFE ALLIANCE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "Coach Mac Foundation",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kuskokwim Educational Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Aleut Foundation",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of Homer Forest School",
+    "city": "ANCHOR POINT",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaskan Apple Users Group",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ACADEMY OF GENERAL DENTISTRY",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "AMERICAN ASSOCIATION OF UNIVERSITY WOMEN OF KODIAK ALASKA",
+    "city": "KODIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Live Steamers Inc.",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ANCHORAGE EDUCATION ASSOCIATION",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "unknown or not classified"
+    ]
+  },
+  {
+    "name": "UNITY CHURCH OF ANCHORAGE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "EDUCATION ASSOCIATION BUILDING CORPORATION",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NORTHWEST SECTION OF THE NINETY-NINES",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Bob Ellis Aviation Scholarship Foundation",
+    "city": "KETCHIKAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Adapting to Adversity Scholarship Fund",
+    "city": "DELTA JCT",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kchs Hockey Booster Club Inc.",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Chugiak Wrestling Booster Club",
+    "city": "CHUGIAK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Coalition of Bipoc Educators",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Kids Chance of Alaska Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "FAIRBANKS EDUCATION ASSOCIATION",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "elementary and secondary education"
+    ]
+  },
+  {
+    "name": "Friends of the Kenai Community Library",
+    "city": "KENAI",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "public libraries"
+    ]
+  },
+  {
+    "name": "Alaska Common Ground Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "GLENNALLEN NORDIC SKI TEAM BOOSTER CLUB",
+    "city": "GLENNALLEN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "THRIVE NINILCHIK",
+    "city": "NINILCHIK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of Sutton Library",
+    "city": "SUTTON",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Interior Marksmanship Committee",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "sports and recreation"
+    ]
+  },
+  {
+    "name": "ANCHORAGE WOMENS GOLF ASSOCIATION INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Moose Boosters Wrestling Club",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Anchorage South Rotary Memorial Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Dancewest Booster Club",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "More Latinoamerica",
+    "city": "WASILLA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Friends of the Talkeetna Library",
+    "city": "TALKEETNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eagle River Hockey League",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA PROGRESSIVE DONOR TABLE",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "South Peninsula Amateur Radio Club",
+    "city": "HOMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Region V of Alaska School Activities Association",
+    "city": "KLAWOCK",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Haida Canoe Revitalization Group",
+    "city": "KASAAN",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "health"
+    ]
+  },
+  {
+    "name": "Chugiak Basketball Booster Club",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Eagle River Open Optional Program Steering Committee",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "SITKA EDUCATION ASSOCIATION",
+    "city": "SITKA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Tigara Educational Foundation Inc.",
+    "city": "POINT HOPE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "KENAI PENINSULA CHARR",
+    "city": "SOLDOTNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "business promotion"
+    ]
+  },
+  {
+    "name": "Tavita Asi Scholarship Fund",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "CHUGIAK-EAGLE RIVER WOMEN IN BUSINESS NETWORK",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "FABULOUS FEMINISTS INC",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Photographic Center",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Youth Scholarship Tournament",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Mtnt Foundation Inc.",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Empowering Education",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "SAFETY ADVISORY & EDUCATION FOUNDATION",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA ANTI-TRAFFICKING COALITION INC",
+    "city": "SOLDOTNA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Arctic Circle Educational Adventures",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "LAKE AND PENINSULA EDUCATION ASSOCIATION",
+    "city": "PORT ALSWORTH",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA ASSOCIATION OF SCHOOL LIBRARIANS",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "LOWER KUSKOKWIM NEA",
+    "city": "BETHEL",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "YAKUTAT EDUCATION ASSOCIATION",
+    "city": "YAKUTAT",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "ALASKA COUNCIL OF SCHOOL ADMINISTRATORS",
+    "city": "JUNEAU",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "educational management"
+    ]
+  },
+  {
+    "name": "SITKA EDUCATIONAL SUPPORT PERSONNEL ASSOCIATION",
+    "city": "SITKA",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "NORTHWEST ARCTIC EDUCATION ASSOCIATION",
+    "city": "KOTZEBUE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  },
+  {
+    "name": "Doyon Foundation",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "foundations"
+    ]
+  },
+  {
+    "name": "Big Lake Library Advocates",
+    "city": "BIG LAKE",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "unknown or not classified"
+    ]
+  },
+  {
+    "name": "IMPACT 907",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education",
+      "individual liberties"
+    ]
+  },
+  {
+    "name": "COACH OTTEN INC",
+    "city": "PALMER",
+    "state": "AK",
+    "cause": "Education",
+    "categories": [
+      "education"
+    ]
+  }
+]

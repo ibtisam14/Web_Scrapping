@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Hudson-Alpha Institute for Biotechnology",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Super-sized",
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "Hudsonalpha Foundation",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Large-sized",
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "The Alabama A&M Univ Research Innovation Science and Engineering",
+    "city": "NORMAL",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Large-sized",
+      "science"
+    ]
+  },
+  {
+    "name": "Shoulder of the Central Gulf Coast Inc.",
+    "city": "SPANISH FORT",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Large-sized",
+      "science",
+      "social sciences"
+    ]
+  },
+  {
+    "name": "Southern Research Institute",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Large-sized",
+      "science",
+      "chemistry"
+    ]
+  },
+  {
+    "name": "Dothan Landmarks Foundation Inc.",
+    "city": "DOTHAN",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "agriculture"
+    ]
+  },
+  {
+    "name": "Southern Institute for Appropriate Technology",
+    "city": "LINEVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "christianity"
+    ]
+  },
+  {
+    "name": "Southern Medical Association",
+    "city": "VESTAVIA",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "health"
+    ]
+  },
+  {
+    "name": "Friends of Army Aviation Ozark",
+    "city": "OZARK",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "special population support"
+    ]
+  },
+  {
+    "name": "National Space Club Huntsville Committee Inc.",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science"
+    ]
+  },
+  {
+    "name": "Turkeys for Tomorrow",
+    "city": "AUBURN",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Small-sized",
+      "science",
+      "environment"
+    ]
+  },
+  {
+    "name": "Institute for Smet Education & Research Inc.",
+    "city": "AUBURN",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "Small-sized",
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "Mobile Astronomical Society",
+    "city": "FAIRHOPE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Mitochondria Research Society",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Red Mountain Makers",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "clubs"
+    ]
+  },
+  {
+    "name": "North Alabama Repeater Association Inc.",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Branch Family Worship Center",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "information and communications"
+    ]
+  },
+  {
+    "name": "Rise Raptor Project",
+    "city": "HARVEST",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "environment"
+    ]
+  },
+  {
+    "name": "Staying Cody Strong Foundation Inc.",
+    "city": "GORDON",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "ASSOCIATION FOR COMPUTING MACHINERY",
+    "city": "TUSKEGEE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "technology"
+    ]
+  },
+  {
+    "name": "North Alabama Charitable Computing",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "ASSOCIATION FOR COMPUTING MACHINERY",
+    "city": "FLORENCE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "technology"
+    ]
+  },
+  {
+    "name": "Along Came A Hop",
+    "city": "HUNTSVILLE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "equal opportunity in education"
+    ]
+  },
+  {
+    "name": "ALABAMA ARTIFICIAL INTELLIGENCE CENTER OF EXCELLENCE",
+    "city": "AUBURN",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Amateur Radio Advancement Group",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Alabama Biosciences Research Institute Inc.",
+    "city": "ATHENS",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "American Baseball Biomechanics Society",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Bhm Aws",
+    "city": "BIRMINGHAM",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Partners for Environmental Progress Gulf Coast Environmental Fnd",
+    "city": "MOBILE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "3RC TECHNOLOGIES",
+    "city": "MOBILE",
+    "state": "AL",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  }
+]

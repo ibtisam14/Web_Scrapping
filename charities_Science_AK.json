@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Ilisagvik College",
+    "city": "BARROW",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Large-sized",
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "Alaska Resource Education",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "geology"
+    ]
+  },
+  {
+    "name": "Arctic Research Consortium of the United States Incorporated",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "social sciences"
+    ]
+  },
+  {
+    "name": "Alaska Society for Technology in",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Small-sized",
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "North Gulf Oceanic Society",
+    "city": "HOMER",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Small-sized",
+      "science",
+      "unknown or not classified"
+    ]
+  },
+  {
+    "name": "Kenai Watershed Forum",
+    "city": "Soldotna",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "Medium-sized",
+      "science",
+      "environment"
+    ]
+  },
+  {
+    "name": "Alaska Songbird Institute",
+    "city": "FAIRBANKS",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "land resources"
+    ]
+  },
+  {
+    "name": "URISA ALASKA",
+    "city": "ANCHORAGE",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "science"
+    ]
+  },
+  {
+    "name": "Brabson Library and Educational Foundation Inc.",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "education"
+    ]
+  },
+  {
+    "name": "R & D Biotech Alaska",
+    "city": "EAGLE RIVER",
+    "state": "AK",
+    "cause": "Science",
+    "categories": [
+      "science",
+      "education"
+    ]
+  }
+]
