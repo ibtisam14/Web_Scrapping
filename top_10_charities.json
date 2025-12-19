@@ -1,0 +1,111 @@
+[
+  {
+    "name": "PetSmart Charities",
+    "city": "Phoenix",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Super-sized",
+      "philanthropy",
+      "domesticated animals"
+    ]
+  },
+  {
+    "name": "University of Arizona Foundation",
+    "city": "TUCSON",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Super-sized",
+      "philanthropy",
+      "education"
+    ]
+  },
+  {
+    "name": "Arizona Community Foundation",
+    "city": "Phoenix",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Super-sized",
+      "philanthropy",
+      "environment"
+    ]
+  },
+  {
+    "name": "Valley of the Sun United Way",
+    "city": "Phoenix",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Super-sized",
+      "philanthropy",
+      "public affairs"
+    ]
+  },
+  {
+    "name": "The Womens Foundation for the State of Arizona",
+    "city": "TUCSON",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy",
+      "community and economic development"
+    ]
+  },
+  {
+    "name": "Charro Foundation",
+    "city": "SCOTTSDALE",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy",
+      "education"
+    ]
+  },
+  {
+    "name": "Honorhealth Foundation",
+    "city": "SCOTTSDALE",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy"
+    ]
+  },
+  {
+    "name": "Forever Young Foundation",
+    "city": "Mesa",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy",
+      "education"
+    ]
+  },
+  {
+    "name": "Jewish Federation of Southern Arizona",
+    "city": "TUCSON",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy",
+      "community service"
+    ]
+  },
+  {
+    "name": "El Rio Health Center Foundation Inc.",
+    "city": "TUCSON",
+    "state": "AZ",
+    "cause": "philanthropy",
+    "categories": [
+      "Large-sized",
+      "philanthropy",
+      "community health care"
+    ]
+  }
+]
